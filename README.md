@@ -1,2 +1,2 @@
-# tres-en-ralla
-Juego tres en ralla, escrito en Java.
+# tres-en-raya
+Juego tres en raya, escrito en Java.
